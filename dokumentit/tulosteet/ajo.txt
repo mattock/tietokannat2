@@ -1,0 +1,45 @@
+Yhteys avattu!
+
+Näytteenottajat, jotka ovat ottaneet näytteitä Kakskerran järvestä:
+
+    Henkilötunnus  Nimi
+
+    180877-800R    Annika Sarin
+    260954-393M    Anton Willgren
+
+
+Lisätään Saimaa-järviolio
+
+
+Järvet, joista ei ole otettu näytettä:
+
+    Järvitunnus  Nimi
+
+    230211001    Lohjanjärvi
+    41121001    Saimaa
+    820431001    Littoistenjärvi
+
+Lisätään Näyte järveen Saimaa
+
+Lisätään SijaintiID
+
+Lisätään Vesinäyte
+
+
+Järvet, joista ei ole otettu näytettä:
+
+    Järvitunnus  Nimi
+
+    230211001    Lohjanjärvi
+    820431001    Littoistenjärvi
+
+
+Järvet, joista on otettu vähintään yksi vesinäyte, jonka fosforipitoisuus on yli 30 mikrogrammaa litrassa:
+
+    Järvitunnus  Nimi
+
+    340541001    Köyliönjärvi
+
+Poistetaan Vesinäyte
+
+Yhteys suljettu
