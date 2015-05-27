@@ -31,7 +31,8 @@ psql-komennoilla jotakuinkin näin:
     $ createdb -O johndoe tietokannat2b
     $ psql tietokannat2b < sql/tietokannat2.sql
 
-Koodin voi kääntää ja heti perään ajaa komennolla
+Tämän jälkeen määritetään yllä luotu tietokantakäyttäjä ja tämän salasana 
+src/main.java -tiedostossa. Koodin voi kääntää ja heti perään ajaa komennolla
 
     $ ./main.sh
 
